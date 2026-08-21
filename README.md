@@ -2,7 +2,7 @@
 
 I'm Sibo. I like building software, messing with rockets, and learning how things work.
 
-I'm also a **core developer on [OpenRocket](https://github.com/openrocket/openrocket)** 🚀
+I'm also a core developer on [OpenRocket](https://github.com/openrocket/openrocket) 🚀
 
 ## 🛠️ Stuff I use
 
