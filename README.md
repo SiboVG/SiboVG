@@ -1,28 +1,31 @@
-## Hi there 👋
+# Hi there 👋
 
-## 🚀 Skills & Technologies
+I'm Sibo. I like building software, messing with rockets, and learning how things work.
+
+I'm also a **core developer on [OpenRocket](https://github.com/openrocket/openrocket)** 🚀
+
+## 🛠️ Stuff I use
+
 - **Languages:** Python, Java, JavaScript, C, C++
 - **DevOps:** Docker, GitHub Actions
 - **Tools:** Git, VS Code, Jira
 
-## 📈 GitHub Stats
-![SiboVG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiboVG&show_icons=true&theme=radical)
+## 🚀 Things I'm into
 
-## 🎮 Hobbies & Interests
-- Model rocketry 🚀
-- Music (🎺 & 🎹)
+- Aerospace
+- Model rocketry
+- Open-source software
+- Music 🎺 🎹
 
-<!--
-**SiboVG/SiboVG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 What I'm working on
 
-Here are some ideas to get you started:
+Mostly OpenRocket and whatever other projects seem interesting at the time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![Sibo's GitHub stats](https://github-stats-extended.vercel.app/api?username=SiboVG&show_icons=true&hide_border=true&theme=transparent)
+
+
+---
+
+Feel free to have a look around my repos :)
